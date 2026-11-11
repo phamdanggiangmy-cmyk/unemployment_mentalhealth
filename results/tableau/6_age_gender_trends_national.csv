@@ -1,0 +1,88 @@
+Year,Indicators,Age group,Gender,Percent
+2002,"Major depressive episode, 12 months",15 to 24 years,Men,4.5
+2002,"Suicidal thoughts, 12 months",15 to 24 years,Men,4.7
+2002,"Perceived mental health, fair or poor",15 to 24 years,Men,4.5
+2002,"Major depressive episode, 12 months",15 to 24 years,Women,8.3
+2002,"Suicidal thoughts, 12 months",15 to 24 years,Women,7.3
+2002,"Perceived mental health, fair or poor",15 to 24 years,Women,7.9
+2002,"Major depressive episode, 12 months",25 to 44 years,Men,4.0
+2002,"Suicidal thoughts, 12 months",25 to 44 years,Men,3.7
+2002,"Perceived mental health, fair or poor",25 to 44 years,Men,6.2
+2002,"Major depressive episode, 12 months",25 to 44 years,Women,6.8
+2002,"Suicidal thoughts, 12 months",25 to 44 years,Women,3.7
+2002,"Perceived mental health, fair or poor",25 to 44 years,Women,7.6
+2002,"Major depressive episode, 12 months",45 to 64 years,Men,3.5
+2002,"Suicidal thoughts, 12 months",45 to 64 years,Men,3.8
+2002,"Perceived mental health, fair or poor",45 to 64 years,Men,6.8
+2002,"Major depressive episode, 12 months",45 to 64 years,Women,5.6
+2002,"Suicidal thoughts, 12 months",45 to 64 years,Women,3.1
+2002,"Perceived mental health, fair or poor",45 to 64 years,Women,8.0
+2002,"Major depressive episode, 12 months",65 years and over,Men,2.1
+2002,"Suicidal thoughts, 12 months",65 years and over,Men,1.3
+2002,"Perceived mental health, fair or poor",65 years and over,Men,5.9
+2002,"Major depressive episode, 12 months",65 years and over,Women,1.9
+2002,"Perceived mental health, fair or poor",65 years and over,Women,7.0
+2012,"Major depressive episode, 12 months",15 to 24 years,Men,5.3
+2012,"Generalized anxiety disorder, 12 months",15 to 24 years,Men,1.1
+2012,"Suicidal thoughts, 12 months",15 to 24 years,Men,5.0
+2012,"Perceived mental health, fair or poor",15 to 24 years,Men,6.2
+2012,"Major depressive episode, 12 months",15 to 24 years,Women,9.0
+2012,"Generalized anxiety disorder, 12 months",15 to 24 years,Women,3.8
+2012,"Suicidal thoughts, 12 months",15 to 24 years,Women,6.6
+2012,"Perceived mental health, fair or poor",15 to 24 years,Women,10.1
+2012,"Major depressive episode, 12 months",25 to 44 years,Men,4.1
+2012,"Generalized anxiety disorder, 12 months",25 to 44 years,Men,2.6
+2012,"Suicidal thoughts, 12 months",25 to 44 years,Men,3.2
+2012,"Perceived mental health, fair or poor",25 to 44 years,Men,5.8
+2012,"Major depressive episode, 12 months",25 to 44 years,Women,6.8
+2012,"Generalized anxiety disorder, 12 months",25 to 44 years,Women,3.3
+2012,"Suicidal thoughts, 12 months",25 to 44 years,Women,4.3
+2012,"Perceived mental health, fair or poor",25 to 44 years,Women,9.9
+2012,"Major depressive episode, 12 months",45 to 64 years,Men,3.4
+2012,"Generalized anxiety disorder, 12 months",45 to 64 years,Men,2.2
+2012,"Suicidal thoughts, 12 months",45 to 64 years,Men,3.1
+2012,"Perceived mental health, fair or poor",45 to 64 years,Men,7.3
+2012,"Major depressive episode, 12 months",45 to 64 years,Women,5.6
+2012,"Generalized anxiety disorder, 12 months",45 to 64 years,Women,3.8
+2012,"Suicidal thoughts, 12 months",45 to 64 years,Women,2.5
+2012,"Perceived mental health, fair or poor",45 to 64 years,Women,9.3
+2012,"Major depressive episode, 12 months",65 years and over,Men,1.4
+2012,"Generalized anxiety disorder, 12 months",65 years and over,Men,1.0
+2012,"Suicidal thoughts, 12 months",65 years and over,Men,1.5
+2012,"Perceived mental health, fair or poor",65 years and over,Men,6.4
+2012,"Major depressive episode, 12 months",65 years and over,Women,1.8
+2012,"Generalized anxiety disorder, 12 months",65 years and over,Women,1.3
+2012,"Suicidal thoughts, 12 months",65 years and over,Women,1.2
+2012,"Perceived mental health, fair or poor",65 years and over,Women,6.2
+2022,"Major depressive episode, 12 months",15 to 24 years,Men,8.9
+2022,"Generalized anxiety disorder, 12 months",15 to 24 years,Men,5.0
+2022,"Suicidal thoughts, 12 months",15 to 24 years,Men,5.7
+2022,"Perceived mental health, fair or poor",15 to 24 years,Men,18.5
+2022,"Major depressive episode, 12 months",15 to 24 years,Women,18.4
+2022,"Generalized anxiety disorder, 12 months",15 to 24 years,Women,11.9
+2022,"Suicidal thoughts, 12 months",15 to 24 years,Women,11.5
+2022,"Perceived mental health, fair or poor",15 to 24 years,Women,29.0
+2022,"Major depressive episode, 12 months",25 to 44 years,Men,7.4
+2022,"Generalized anxiety disorder, 12 months",25 to 44 years,Men,4.8
+2022,"Suicidal thoughts, 12 months",25 to 44 years,Men,3.5
+2022,"Perceived mental health, fair or poor",25 to 44 years,Men,17.5
+2022,"Major depressive episode, 12 months",25 to 44 years,Women,11.9
+2022,"Generalized anxiety disorder, 12 months",25 to 44 years,Women,8.9
+2022,"Suicidal thoughts, 12 months",25 to 44 years,Women,4.9
+2022,"Perceived mental health, fair or poor",25 to 44 years,Women,18.3
+2022,"Major depressive episode, 12 months",45 to 64 years,Men,5.4
+2022,"Generalized anxiety disorder, 12 months",45 to 64 years,Men,3.0
+2022,"Suicidal thoughts, 12 months",45 to 64 years,Men,3.2
+2022,"Perceived mental health, fair or poor",45 to 64 years,Men,11.8
+2022,"Major depressive episode, 12 months",45 to 64 years,Women,7.6
+2022,"Generalized anxiety disorder, 12 months",45 to 64 years,Women,5.2
+2022,"Suicidal thoughts, 12 months",45 to 64 years,Women,2.0
+2022,"Perceived mental health, fair or poor",45 to 64 years,Women,14.8
+2022,"Major depressive episode, 12 months",65 years and over,Men,1.4
+2022,"Generalized anxiety disorder, 12 months",65 years and over,Men,1.5
+2022,"Suicidal thoughts, 12 months",65 years and over,Men,1.1
+2022,"Perceived mental health, fair or poor",65 years and over,Men,8.7
+2022,"Major depressive episode, 12 months",65 years and over,Women,2.4
+2022,"Generalized anxiety disorder, 12 months",65 years and over,Women,2.7
+2022,"Suicidal thoughts, 12 months",65 years and over,Women,1.2
+2022,"Perceived mental health, fair or poor",65 years and over,Women,9.1

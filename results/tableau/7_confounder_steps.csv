@@ -1,0 +1,6 @@
+Step,Model,Unemployment beta,CI low,CI high,p,Significance,R2
+1,No controls,0.155,-0.029,0.34,0.099,Not significant,0.026
+2,+ Age,-0.468,-0.745,-0.191,0.001,Significant,0.408
+3,+ Gender,-0.408,-0.623,-0.192,0.0,Significant,0.55
+4,+ Year,-0.202,-0.395,-0.009,0.04,Significant,0.681
+5,+ Province (Model 2),-0.154,-0.566,0.258,0.464,Not significant,0.712

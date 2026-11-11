@@ -1,0 +1,13 @@
+# Raw Statistics Canada data (too large for GitHub; see README for download links)
+13100465.csv
+14100017.csv
+*-eng.zip
+
+# Working copies (published versions: final_analysis.ipynb, exploratory_analysis.ipynb)
+testing.ipynb
+testing_backup.ipynb
+
+# System / Jupyter files
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/

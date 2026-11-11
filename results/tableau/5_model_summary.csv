@@ -1,0 +1,4 @@
+Model,Unemployment beta,SE,p,R2,N,CI low,CI high
+Model 1: raw,0.155,0.094,0.099,0.026,87,-0.029,0.339
+Model 2: + controls,-0.154,0.21,0.464,0.712,87,-0.566,0.258
+Model 3: + interactions,-0.121,0.268,0.651,0.762,87,-0.646,0.404

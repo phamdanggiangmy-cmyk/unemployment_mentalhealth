@@ -1,0 +1,88 @@
+year,geo,age,gender,mh,cv,unemp
+2002,Newfoundland and Labrador,25 to 44 years,Women+,4.6,226.0,14.525
+2002,Newfoundland and Labrador,45 to 64 years,Women+,5.6,269.0,12.775
+2002,Nova Scotia,15 to 24 years,Women+,7.6,330.0,14.45
+2002,Nova Scotia,25 to 44 years,Men+,4.0,275.0,9.575
+2002,Nova Scotia,25 to 44 years,Women+,8.6,174.0,7.308333333333334
+2002,Nova Scotia,45 to 64 years,Men+,3.5,269.0,7.375
+2002,Nova Scotia,45 to 64 years,Women+,5.1,276.0,7.283333333333334
+2002,New Brunswick,15 to 24 years,Women+,6.9,298.0,11.783333333333331
+2002,New Brunswick,45 to 64 years,Men+,3.6,331.0,11.0
+2002,New Brunswick,45 to 64 years,Women+,5.3,274.0,7.433333333333334
+2002,Quebec,15 to 24 years,Men+,6.4,253.0,15.091666666666669
+2002,Quebec,15 to 24 years,Women+,8.2,223.0,12.091666666666669
+2002,Quebec,25 to 44 years,Men+,3.5,217.0,8.241666666666667
+2002,Quebec,25 to 44 years,Women+,6.9,156.0,7.508333333333333
+2002,Quebec,45 to 64 years,Men+,2.6,234.0,8.125
+2002,Quebec,45 to 64 years,Women+,6.1,186.0,7.016666666666667
+2002,Ontario,15 to 24 years,Men+,4.0,218.0,15.875
+2002,Ontario,15 to 24 years,Women+,9.8,136.0,11.75
+2002,Ontario,25 to 44 years,Men+,3.7,126.0,6.55
+2002,Ontario,25 to 44 years,Women+,6.7,91.0,6.45
+2002,Ontario,45 to 64 years,Men+,3.8,220.0,4.841666666666667
+2002,Ontario,45 to 64 years,Women+,5.5,125.0,4.766666666666667
+2002,Ontario,65 years and over,Men+,1.5,261.0,3.1833333333333336
+2002,Ontario,65 years and over,Women+,1.9,183.0,4.65
+2002,Manitoba,15 to 24 years,Women+,8.0,270.0,8.775
+2002,Manitoba,25 to 44 years,Men+,3.8,300.0,4.408333333333333
+2002,Manitoba,25 to 44 years,Women+,6.5,275.0,3.95
+2002,Manitoba,45 to 64 years,Men+,3.9,292.0,4.05
+2002,Saskatchewan,25 to 44 years,Men+,4.2,276.0,5.566666666666666
+2002,Saskatchewan,25 to 44 years,Women+,5.8,252.0,4.3500000000000005
+2002,Alberta,15 to 24 years,Men+,5.2,276.0,12.108333333333334
+2002,Alberta,15 to 24 years,Women+,7.3,210.0,8.975
+2002,Alberta,25 to 44 years,Men+,4.9,200.0,4.875
+2002,Alberta,25 to 44 years,Women+,6.4,175.0,4.191666666666666
+2002,Alberta,45 to 64 years,Men+,6.3,245.0,3.483333333333333
+2002,Alberta,45 to 64 years,Women+,6.7,234.0,3.583333333333333
+2002,British Columbia,15 to 24 years,Men+,2.7,333.0,17.099999999999998
+2002,British Columbia,15 to 24 years,Women+,6.8,265.0,12.883333333333333
+2002,British Columbia,25 to 44 years,Men+,5.8,154.0,8.341666666666667
+2002,British Columbia,25 to 44 years,Women+,8.3,150.0,7.708333333333333
+2002,British Columbia,45 to 64 years,Men+,2.9,316.0,6.891666666666667
+2002,British Columbia,45 to 64 years,Women+,5.1,196.0,5.533333333333334
+2012,Newfoundland and Labrador,45 to 64 years,Women+,6.7,271.0,11.3
+2012,Nova Scotia,25 to 44 years,Women+,10.4,235.0,7.325
+2012,New Brunswick,15 to 24 years,Women+,6.5,316.0,13.166666666666666
+2012,New Brunswick,25 to 44 years,Women+,7.7,295.0,7.483333333333333
+2012,New Brunswick,45 to 64 years,Women+,4.6,266.0,8.041666666666666
+2012,Quebec,15 to 24 years,Women+,13.0,221.0,11.283333333333331
+2012,Quebec,25 to 44 years,Men+,3.5,263.0,7.641666666666667
+2012,Quebec,25 to 44 years,Women+,6.4,191.0,6.3
+2012,Quebec,45 to 64 years,Men+,3.5,246.0,7.341666666666666
+2012,Quebec,45 to 64 years,Women+,4.3,154.0,6.425
+2012,Quebec,65 years and over,Women+,1.9,255.0,6.533333333333333
+2012,Ontario,15 to 24 years,Men+,6.8,251.0,18.40833333333333
+2012,Ontario,15 to 24 years,Women+,6.4,198.0,14.708333333333334
+2012,Ontario,25 to 44 years,Men+,4.6,199.0,6.991666666666667
+2012,Ontario,25 to 44 years,Women+,7.8,195.0,6.908333333333332
+2012,Ontario,45 to 64 years,Men+,2.9,189.0,6.55
+2012,Ontario,45 to 64 years,Women+,5.8,171.0,5.641666666666667
+2012,Ontario,65 years and over,Women+,1.9,253.0,5.041666666666667
+2012,Manitoba,25 to 44 years,Women+,10.4,324.0,5.025
+2012,Manitoba,45 to 64 years,Women+,13.1,270.0,3.9
+2012,Saskatchewan,45 to 64 years,Women+,3.7,324.0,3.825
+2012,Alberta,15 to 24 years,Women+,14.4,211.0,7.925
+2012,Alberta,25 to 44 years,Men+,3.7,263.0,3.6916666666666655
+2012,Alberta,45 to 64 years,Men+,2.1,290.0,4.233333333333333
+2012,Alberta,45 to 64 years,Women+,5.5,281.0,4.108333333333333
+2012,Alberta,65 years and over,Women+,1.9,332.0,5.933333333333334
+2012,British Columbia,15 to 24 years,Men+,4.4,326.0,15.016666666666666
+2012,British Columbia,15 to 24 years,Women+,8.4,223.0,10.966666666666669
+2012,British Columbia,25 to 44 years,Men+,3.1,301.0,6.108333333333333
+2012,British Columbia,25 to 44 years,Women+,5.9,216.0,6.575
+2012,British Columbia,45 to 64 years,Men+,4.6,261.0,5.666666666666667
+2012,British Columbia,45 to 64 years,Women+,5.4,172.0,5.2
+2022,Quebec,15 to 24 years,Men+,9.4,,8.641666666666667
+2022,Quebec,15 to 24 years,Women+,15.0,,6.608333333333333
+2022,Quebec,25 to 44 years,Men+,4.7,,3.775
+2022,Quebec,25 to 44 years,Women+,8.0,,3.641666666666667
+2022,Ontario,15 to 24 years,Men+,10.3,,12.408333333333331
+2022,Ontario,15 to 24 years,Women+,18.9,,10.458333333333334
+2022,Ontario,25 to 44 years,Men+,9.7,,4.741666666666666
+2022,Ontario,25 to 44 years,Women+,12.4,,5.133333333333334
+2022,Ontario,45 to 64 years,Men+,5.5,,3.908333333333333
+2022,Ontario,45 to 64 years,Women+,6.8,,4.666666666666667
+2022,Ontario,65 years and over,Women+,3.9,,4.308333333333333
+2022,Alberta,15 to 24 years,Men+,9.4,,11.691666666666668
+2022,Alberta,15 to 24 years,Women+,20.8,,10.208333333333334

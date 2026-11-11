@@ -1,0 +1,29 @@
+Province,Year,Any mood disorder (12 mo),Generalized anxiety (12 mo),Major depressive episode (12 mo),Fair or poor mental health,Very good or excellent mental health,Suicidal thoughts (12 mo),Unemployment rate,Youth unemployment rate,Province code,Region,Country
+Alberta,2002,,,5.7,7.7,62.6,4.3,5.325,10.616666666666667,AB,Prairies,Canada
+Alberta,2012,5.5,2.5,4.5,7.7,63.7,3.0,4.733333333333333,8.65,AB,Prairies,Canada
+Alberta,2022,10.6,6.3,9.6,17.4,50.1,4.8,5.8500000000000005,10.966666666666669,AB,Prairies,Canada
+British Columbia,2002,,,4.9,8.5,61.9,3.8,8.549999999999999,15.075,BC,British Columbia,Canada
+British Columbia,2012,5.3,2.6,4.6,10.0,63.2,3.4,6.908333333333334,12.983333333333334,BC,British Columbia,Canada
+British Columbia,2022,8.6,5.8,8.2,17.2,48.9,4.6,4.65,8.924999999999999,BC,British Columbia,Canada
+Manitoba,2002,,,4.7,7.1,65.3,3.4,5.075,10.191666666666666,MB,Prairies,Canada
+Manitoba,2012,7.8,3.5,7.0,8.8,59.2,5.1,5.416666666666667,10.9,MB,Prairies,Canada
+Manitoba,2022,9.0,2.8,7.7,14.8,48.4,3.1,4.525,8.333333333333334,MB,Prairies,Canada
+New Brunswick,2002,,,3.5,8.5,60.2,3.1,10.191666666666666,15.433333333333332,NB,Atlantic,Canada
+New Brunswick,2012,5.4,3.4,4.6,10.3,56.4,2.9,10.491666666666667,17.849999999999998,NB,Atlantic,Canada
+New Brunswick,2022,,,,12.7,57.3,,7.225,12.208333333333334,NB,Atlantic,Canada
+Newfoundland and Labrador,2002,,,3.7,5.6,73.7,2.1,16.724999999999998,22.83333333333333,NL,Atlantic,Canada
+Newfoundland and Labrador,2012,5.0,3.7,4.5,7.0,68.9,2.3,12.775,18.258333333333333,NL,Atlantic,Canada
+Nova Scotia,2002,,,4.6,7.6,65.3,3.3,9.633333333333333,18.1,NS,Atlantic,Canada
+Nova Scotia,2012,6.6,3.1,5.6,8.9,61.4,4.1,9.3,17.858333333333334,NS,Atlantic,Canada
+Nova Scotia,2022,11.8,,8.8,22.4,49.7,,6.533333333333334,11.45,NS,Atlantic,Canada
+Ontario,2002,,,4.8,7.2,67.6,3.5,7.1000000000000005,13.883333333333333,ON,Ontario,Canada
+Ontario,2012,5.6,2.5,4.8,8.2,65.8,3.6,8.0,16.591666666666665,ON,Ontario,Canada
+Ontario,2022,9.2,6.0,8.3,17.3,50.2,3.5,5.575,11.458333333333334,ON,Ontario,Canada
+Prince Edward Island,2002,,,2.6,6.1,69.9,2.7,12.016666666666666,15.916666666666666,PE,Atlantic,Canada
+Prince Edward Island,2012,3.4,2.3,3.0,5.1,68.8,2.2,11.216666666666669,18.15,PE,Atlantic,Canada
+Quebec,2002,,,4.9,4.9,71.8,3.9,8.716666666666667,13.691666666666668,QC,Quebec,Canada
+Quebec,2012,4.9,2.3,4.4,5.1,68.4,2.7,7.916666666666667,13.258333333333333,QC,Quebec,Canada
+Quebec,2022,6.6,3.5,5.8,9.3,62.0,2.9,4.333333333333333,7.625,QC,Quebec,Canada
+Saskatchewan,2002,,,4.1,7.2,64.3,4.1,5.691666666666666,10.883333333333333,SK,Prairies,Canada
+Saskatchewan,2012,4.5,3.2,3.7,10.1,58.6,3.9,4.891666666666667,9.45,SK,Prairies,Canada
+Saskatchewan,2022,4.1,,,19.0,51.1,,4.658333333333333,8.216666666666667,SK,Prairies,Canada

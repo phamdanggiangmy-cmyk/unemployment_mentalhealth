@@ -1,0 +1,10 @@
+Province,Slope,CI low,CI high,p vs Ontario,Province code
+Newfoundland and Labrador,-0.939,-2.456,0.577,0.332,NL
+Manitoba,-0.88,-2.201,0.441,0.213,MB
+Nova Scotia,-0.554,-1.196,0.088,0.2,NS
+New Brunswick,-0.507,-1.562,0.548,0.4,NB
+British Columbia,-0.333,-0.813,0.146,0.168,BC
+Ontario,-0.121,-0.647,0.404,,ON
+Alberta,-0.029,-0.877,0.819,0.795,AB
+Quebec,0.247,-0.477,0.972,0.18,QC
+Saskatchewan,1.47,-2.031,4.971,0.376,SK
